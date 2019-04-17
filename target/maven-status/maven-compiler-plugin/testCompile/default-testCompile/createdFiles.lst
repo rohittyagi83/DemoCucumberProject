@@ -1,0 +1,10 @@
+stepDefinitions\runTestTestNG.class
+stepDefinitions\SeleniumSteps.class
+stepDefinitions\amazonSteps.class
+stepDefinitions\GoogleSearchSteps.class
+testRunner\Parallel02IT.class
+stepDefinitions\Hooks.class
+testRunner\Parallel01IT.class
+utilityPackage\DataHelper.class
+testRunner\Parallel03IT.class
+utilityPackage\DataHelper$1.class
